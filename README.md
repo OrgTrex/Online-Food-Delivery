@@ -2,4 +2,4 @@
 Its a Full Stack Development with all Bigineer to Advanced Concept. 
 
 
-we are not for public
+we are for public
